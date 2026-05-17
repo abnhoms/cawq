@@ -1,0 +1,10 @@
+{
+    "require": {
+        "chillerlan/php-qrcode": "^2.0",
+        "endroid/qr-code": "^5.0",
+        "mobiledetect/mobiledetectlib": "^4.8",
+        "matomo/device-detector": "^6.3",
+        "geoip2/geoip2": "^3.0",
+        "gregwar/captcha": "1.*"
+    }
+}
